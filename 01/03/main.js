@@ -12,4 +12,4 @@ let obj = {
 }
 
 obj.prop3(); //関数を実行する時は()を末尾
-console.log(obj.prop4.prop5);
+console.log(obj.prop4.prop5); //中にあるをオブジェクト呼び出す際にには、.でつなげる
